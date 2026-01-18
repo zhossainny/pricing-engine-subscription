@@ -13,7 +13,7 @@ cd pricing-engine-subscription
 ### Requirements
 - **Java**: Java 11 or later - Spring boot 3 compatible
 - No Maven installation required (uses Maven Wrapper)
-- This project was built on Java 17, used in the pom Jave.version based on your computer JAVA_HOME setup.
+- This project was built on Java 17, used in the pom ${Jave.version} and <java.version>17</java.version> based on my computer JAVA_HOME setup. Change it in the POM.xml based on your setup
 
 ### Run the Application
 ```bash
